@@ -7,19 +7,6 @@ namespace CET1004_Week8
         static void Main(string[] args)
         {
             Ticketing();
-            /*ask 2 — Read input with validation loop
-1. In Main(): ask the user for the ticket type.
-2. If input is not "Adult" or "Child", print an error message and re-prompt (loop).
-3. Ask the user whether the ticket is for a weekday (Y/N), and validate in the same way (loop)
-Task 3 — Create the Object
-1. Create a Ticket object using the input provided by the user
-Task 4 — Call the Method
-1. Call the CalculatePrice() method on the object
-2. Store the returned value in a variable
-Task 5 — Display the Result
-1. Display the total ticket price to the user in a clear format, e.g. “Ticket*/
-
-
         }
 
         static void Ticketing()
